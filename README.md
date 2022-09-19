@@ -44,7 +44,7 @@ Depending upon the data used as the training set and the test set, the models ar
 
 ## Results
 
-#### Train: Kaggle, Test: Reddit
+#### Train: Kaggle | Test: Reddit
 | *Model Name*     | *Validation Accuracy* | *F1 Score*     |
 | :---            |    :----:           |          ---:|
 | Naive Bayes            |  0.3559         |          0.3559|
@@ -65,7 +65,7 @@ Depending upon the data used as the training set and the test set, the models ar
 
 
 
-#### Train: Kaggle, Test: Twitter
+#### Train: Kaggle | Test: Twitter
 
 | *Model Name*     | *Validation Accuracy* | *F1 Score*     |
 | :---            |    :----:           |          ---:|
@@ -86,7 +86,7 @@ Depending upon the data used as the training set and the test set, the models ar
 |LinkBERT  |        0.920264663       |      0.9259297844         |
 
 
-#### Train: Kaggle, Test: Reddit + Twitter
+#### Train: Kaggle | Test: Reddit + Twitter
 
 | *Model Name*     | *Validation Accuracy* | *F1 Score*     |
 | :---            |    :----:           |          ---:|
