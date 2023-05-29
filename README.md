@@ -1,5 +1,5 @@
 
-# Classifiction of News from Social Media Posts into Real or Fake
+# Classification of News from Social Media Posts as Real or Fake
 
 CIS 522 - Final Project
 
